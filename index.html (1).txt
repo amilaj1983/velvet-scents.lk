@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Velvet Scents - Amila J.</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f3f3f3;
+}
+header {
+background-color: #4b2e83;
+color: white;
+text-align: center;
+padding: 1em 0;
+}
+header h1 {
+margin: 0;
+font-size: 2.5em;
+}
+header h2 {
+margin: 0;
+font-size: 1.5em;
+font-weight: 300;
+}
+main {
+padding: 2em;
+max-width: 800px;
+margin: auto;
+background-color: white;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+section {
+margin-bottom: 2em;
+}
+h3 {
+color: #4b2e83;
+border-bottom: 2px solid #ddd;
+padding-bottom: 0.5em;
+}
+footer {
+text-align: center;
+padding: 1em 0;
+background-color: #4b2e83;
+color: white;
+}
+.contact-info a {
+color: #4b2e83;
+text-decoration: none;
+}
+.contact-info a:hover {
+text-decoration: underline;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Velvet Scents</h1>
+<h2>by Amila J.</h2>
+</header>
+<main>
+<section>
+<h3>About Velvet Scents</h3>
+<p>Welcome to Velvet Scents, where we believe in capturing the essence of elegance and sophistication in every bottle. Founded by Amila J., Velvet Scents is dedicated to creating unique and luxurious perfumes that leave a lasting impression. Our carefully crafted fragrances are designed to evoke emotion and memory, making every day a special occasion.</p>
+</section>
+<section>
+<h3>Our Collections</h3>
+<p>Explore our range of exquisite perfumes, each meticulously developed to cater to a variety of preferences and occasions. From light, floral scents perfect for daytime wear to bold, seductive fragrances ideal for evening allure, Velvet Scents has something for everyone.</p>
+</section>
+<section>
+<h3>Contact Us</h3>
+<p>If you have any questions or would like to learn more about our products, please don't hesitate to reach out. We'd love to hear from you!</p>
+<div class="contact-info">
+<p>Email: <a href="mailto:amilaj.lk@gmail.com">amilaj.lk@gmail.com</a></p>
+</div>
+</section>
+</main>
+<footer>
+<p>&copy; 2024 Velvet Scents by Amila J. All rights reserved.</p>
+</footer>
+</body>
+</html>
